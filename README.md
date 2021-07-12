@@ -31,7 +31,7 @@ If wanna see my work, take a look at this projects:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-###GitHub status: 
+### GitHub status: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreatlima&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreatlima&layout=compact)
