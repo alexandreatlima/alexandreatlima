@@ -8,7 +8,7 @@
 I'm a backend, frontend and mobile developer.
 
 ### Projects:
-If wanna see my jobs, take a look at this projects:
+If wanna see my work, take a look at this projects:
 
 
 ### Main Stack:
