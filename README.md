@@ -10,9 +10,9 @@ I'm a backend, frontend and mobile developer.
 ### Projects:
 If wanna see my work, take a look at this projects:
 
-[Tower Defence Game Project](https://github.com/alexandreatlima/towerdefense-game-project)
-[IronHELP! Ironhack community fórum.](https://github.com/alexandreatlima/ironhelp-webapp)
-[Spicy Avocado. Films and series tips app.](https://github.com/alexandreatlima/spicy-avocado)
+[Tower Defence Game Project](https://github.com/alexandreatlima/towerdefense-game-project) \
+[IronHELP! Ironhack community fórum.](https://github.com/alexandreatlima/ironhelp-webapp) \
+[Spicy Avocado. Films and series tips app.](https://github.com/alexandreatlima/spicy-avocado) \
 
 
 ### Main Stack:
