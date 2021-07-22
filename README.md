@@ -34,13 +34,6 @@ Gameplay
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
-### GitHub status: 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreatlima&hide=stars,issues)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreatlima&layout=compact)
-
-
-
 
 
 
