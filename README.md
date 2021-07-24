@@ -11,7 +11,7 @@ I'm a backend, frontend and mobile developer.
 If wanna see my work, take a look at this projects:
 
 [Tower Defence Game Project](https://github.com/alexandreatlima/towerdefense-game-project)\
-Spicy Avocado: Server / Client \
+Spicy Avocado: [Server](https://github.com/alexandreatlima/spicy-avocado-server) / Client \
 Letmeask\
 Gameplay
 
