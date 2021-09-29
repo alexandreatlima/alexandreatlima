@@ -10,7 +10,7 @@ I'm a frontend and mobile developer.
 If wanna see my work, take a look at this projects:
 
 [Tower Defence Game Project](https://github.com/alexandreatlima/towerdefense-game-project)\
-[to.do App](https://github.com/alexandreatlima/ignite-challenge-01)\
+[to.do App](https://github.com/alexandreatlima/todo-app)\
 Spicy Avocado: [Server](https://github.com/alexandreatlima/spicy-avocado-server) / [Client](https://github.com/Briofita09/spicy-avocado-client) 
 
 
