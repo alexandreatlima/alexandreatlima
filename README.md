@@ -7,7 +7,7 @@
 💻 I'm a software engineer passionate about web development\
 🎙 I'm talking about `[React, Javascript, Node]`\
 📚 I'm studying about mobile development with React Native\
-👨‍🏫 Work as a educator at Ironhack and Blue EdTech\
+👨‍🏫 Work as a educator at Ironhack and Blue EdTech
 
 
 ### Projects:
