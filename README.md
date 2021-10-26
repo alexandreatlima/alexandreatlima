@@ -4,7 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreatlima/)
 
 ### About me:
-I'm a frontend and mobile developer.
+💻 I'm a software engineer passionate about web development
+🎙 I'm talking about `[React, Javascript, Node]`
+📚 I'm studying about mobile development with React Native
+👨‍🏫 Work as a educator at Ironhack and Blue EdTech
+
 
 ### Projects:
 If wanna see my work, take a look at this projects:
