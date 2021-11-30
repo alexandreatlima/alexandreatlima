@@ -6,7 +6,7 @@
 ### About me:
 💻 I'm a software engineer passionate about web development\
 🎙 I'm talking about `[React, Javascript, Node]`\
-📚 Right now I'm studying about TypeScript, mobile development with React Native and Container with Docker\
+📚 Right now I'm studying about a lot of things 😂 but I'm really excited about Python\
 👨‍🏫 Work as a educator at Ironhack and Blue EdTech
 
 
@@ -25,19 +25,3 @@ Spicy Avocado: [Server](https://github.com/alexandreatlima/spicy-avocado-server)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Other tecnologies:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-
-
-
-
