@@ -9,15 +9,6 @@
 📚 Right now I'm studying about a lot of things 😂 but I'm really excited about Python\
 👨‍🏫 Work as a educator at Ironhack and Blue EdTech
 
-
-### Projects:
-If wanna see my work, take a look at this projects:
-
-[Tower Defence Game Project](https://github.com/alexandreatlima/towerdefense-game-project)\
-[AMA App](https://github.com/alexandreatlima/ama-app)\
-Spicy Avocado: [Server](https://github.com/alexandreatlima/spicy-avocado-server) / [Client](https://github.com/Briofita09/spicy-avocado-client) 
-
-
 ### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
