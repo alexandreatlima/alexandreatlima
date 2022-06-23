@@ -5,7 +5,7 @@
 
 ### About me:
 💻 I'm a software engineer passionate about web development\
-🎙 I'm talking about `[React, Javascript, Node]`\
+🎙 I'm talking about `[React, Node]`\
 📚 Right now I'm studying about a lot of things 😂 but I'm really excited about Design Patterns and Cloud\
 👨‍🏫 Work as a educator at Ironhack São Paulo
 
