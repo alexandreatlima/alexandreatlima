@@ -6,6 +6,5 @@
 ### About me:
 💻 I'm a software engineer passionate about web development\
 🎙 I'm talking about `[React, Node]`\
-📚 Right now I'm studying about Go\
+📚 Right now I'm studying about [Go]\
 👨‍🏫 Work as a Lead Teacher at Ironhack - São Paulo Full-time bootcamp.
-
