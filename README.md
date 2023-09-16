@@ -7,5 +7,5 @@
 💻 I'm a software engineer passionate about web development\
 🎙 I'm talking about `[React, Node]`\
 📚 Right now I'm studying about `Java` \
-👨‍💻 Master Coder (educator) @ Academia de Código - Code for All.
+👨‍💻 Master Coder (educator) @ Code for All.
 
