@@ -4,7 +4,7 @@
 
 ### About me:
 💻 I'm Alexandre, brazilian living in Portugal, web developer and educator.\
-🎙 I'm talking about `[React, Node, Go]`\
-📚 Right now I'm studying about `Java` \
+🎙 I'm talking about `[React, Next, Node]`\
+📚 Right now I'm studying about `Go` \
 👨‍💻 Master Coder (educator) @ Code for All _.
 
