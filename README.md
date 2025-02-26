@@ -4,7 +4,7 @@
 
 ### About me:
 💻 I'm Alexandre, brazilian living in Portugal, software developer and educator.\
-🎙 I'm work with `[JavaScript, Java, Kotlin]`\
+🎙 I'm work with JavaScript Ecosystem (React, Next, Node and more tecnologies).\
 📚 Right now I'm studying about `Go` \
-👨‍💻 Software Developer @ Bool.
+👨‍💻 Software Developer @ Code for All.
 
